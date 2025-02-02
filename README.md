@@ -16,13 +16,17 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
     Si no digita un nombre y hace click en el botón "añadir" aparecerá un aviso en pantalla con un mensaje: "Por favor, ingrese un nombre válido"
 3. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al         menos un amigo para realizar el sorteo
 
-## Archivos del Proyecto 📂
+## **Captura de Pantalla 📸**
+
+Puedes añadir una captura de pantalla de la aplicación aquí para mostrar cómo se ve en funcionamiento.
+
+## **Archivos del Proyecto 📂**
 
 - `index.html`: Estructura del proyecto.
 - `style.css`: Estilos del proyecto.
 - `app.js`: Lógica de JavaScript para agregar nombres y realizar el sorteo.
 
-## Instrucciones para Ejecutar 🚀
+## **Instrucciones para Ejecutar 🚀**
 
 1. Clona este repositorio en tu máquina local.
     ```bash
@@ -30,7 +34,7 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
-## Ejemplo de Código 💻
+## **Ejemplo de Código 💻**
 
 📜 Aquí tienes un fragmento del código JavaScript utilizado para agregar amigos y realizar el sorteo:
 
@@ -89,25 +93,17 @@ function mostrarResultado(amigoSorteado) {
     listaResultado.appendChild(li);
 }
 
-## Captura de Pantalla 📸
 
+## **Contribuciones 🤝**
 
+💡 **¡Las contribuciones son bienvenidas!** Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-## Contribuciones 🤝
+1. Haz un fork del repositorio.
+2. Crea una rama con tu nueva característica (`git checkout -b feature/nueva-caracteristica`).
+3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
+4. Envía tu rama (`git push origin feature/nueva-caracteristica`).
+5. Abre una Pull Request.
 
-💡 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+## **Licencia 📜**
 
-Haz un fork del repositorio.
-
-Crea una rama con tu nueva característica (git checkout -b feature/nueva-caracteristica).
-
-Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva característica').
-
-Envía tu rama (git push origin feature/nueva-caracteristica).
-
-Abre una Pull Request.
-
-
-## Licencia 📜
-
-📄 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
+📄 **Este proyecto está licenciado bajo la Licencia MIT.** Consulta el archivo `LICENSE` para más información.
