@@ -22,7 +22,7 @@ Este proyecto fue realizado con HTML, CSS y JavaScript.
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tu-usuario/challege-amigo-secreto.git
+    git clone https://github.com/tu-usuario/challege-amigo-secreto-.git
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
