@@ -88,14 +88,13 @@ function mostrarResultado(amigoSorteado) {
     li.textContent = `El amigo sorteado es: ${amigoSorteado}`;
     listaResultado.appendChild(li);
 }
-## Captura de pantalla 🎨
+
+## Captura de Pantalla 📸
 
 
 
+## Contribuciones 🤝
 
-
-
-Contribuciones 🤝
 💡 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
 Haz un fork del repositorio.
@@ -108,5 +107,7 @@ Envía tu rama (git push origin feature/nueva-caracteristica).
 
 Abre una Pull Request.
 
-Licencia 📜
+
+## Licencia 📜
+
 📄 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
