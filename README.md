@@ -33,11 +33,6 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
-
-## **Captura de Pantalla 📸**
-
-Puedes añadir una captura de pantalla de la aplicación aquí para mostrar cómo se ve en funcionamiento.
-
 ## **Contribuciones 🤝**
 
 💡 **¡Las contribuciones son bienvenidas!** Si deseas contribuir a este proyecto, por favor sigue estos pasos:
