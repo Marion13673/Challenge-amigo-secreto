@@ -89,7 +89,8 @@ function mostrarResultado(amigoSorteado) {
     listaResultado.appendChild(li);
 }
 Captura de pantalla 🎨
-![image](https://github.com/user-attachments/assets/0fdee1a8-2be2-49e4-a241-19a8d55d60b8)
+
+![image](https://github.com/user-attachments/assets/d6747d38-2395-40c4-880d-d508abf8f0e2)
 
 
 
