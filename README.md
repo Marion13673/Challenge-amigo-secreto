@@ -26,7 +26,7 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/Marion13673/Challenge-amigo-secreto
+    git clone https://github.com/Marion13673/Challenge-amigo-secreto.git
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
