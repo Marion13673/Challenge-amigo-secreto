@@ -90,7 +90,7 @@ function mostrarResultado(amigoSorteado) {
 }
 Captura de pantalla 🎨
 
-![image](https://github.com/user-attachments/assets/d6747d38-2395-40c4-880d-d508abf8f0e2)
+## Captura de pantalla  
 
 
 
