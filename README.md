@@ -19,6 +19,17 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 ## **Captura de Pantalla 📸**
 
 
+
+
+
+
+
+
+
+
+
+
+
 ## **Archivos del Proyecto 📂**
 
 - `index.html`: Estructura del proyecto.
