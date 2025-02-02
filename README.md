@@ -1,26 +1,27 @@
-# Challege-Amigo-Secreto
+# Challege-Amigo-Secreto 🎉
 
-Es una aplicación que permite a los usuarios ingresar nombres de amigos en una lista, para luego realizar un sorteo aleatorio y determinar quién es el amigo secreto
-Este es un proyecto realizado con HTML, CSS y JavaScript.
+**¡Bienvenido al Juego Challege-Amigo-Secreto!**
 
-## Características
+Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y JavaScript. Permite a los usuarios ingresar nombres de amigos y realizar un sorteo para asignarles un amigo secreto.
+
+## Características ✨
 
 - Agregar nombres de amigos a la lista.
 - Sortear un amigo secreto al azar.
 - Mostrar el resultado del sorteo en la pantalla.
 
-## Uso
+## Uso 🛠️
 
 1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de entrada y haz clic en el botón "Añadir".
 2. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado.
 
-## Archivos del Proyecto
+## Archivos del Proyecto 📂
 
 - `index.html`: Estructura del proyecto.
 - `style.css`: Estilos del proyecto.
 - `app.js`: Lógica de JavaScript para agregar nombres y realizar el sorteo.
 
-## Instrucciones para Ejecutar
+## Instrucciones para Ejecutar 🚀
 
 1. Clona este repositorio en tu máquina local.
     ```bash
@@ -28,9 +29,9 @@ Este es un proyecto realizado con HTML, CSS y JavaScript.
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
-## Ejemplo de Código
+## Ejemplo de Código 💻
 
-Aquí tienes un fragmento del código JavaScript utilizado para agregar amigos y realizar el sorteo:
+📜 Aquí tienes un fragmento del código JavaScript utilizado para agregar amigos y realizar el sorteo:
 
 ```javascript
 // Array para almacenar los nombres de los amigos
