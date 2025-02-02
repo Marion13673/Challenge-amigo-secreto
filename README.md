@@ -14,7 +14,7 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de entrada y haz clic en el botón "Añadir".
     Si no digita un nombre y hace click en el botón "añadir" aparecerá un aviso en pantalla con un mensaje: "Por favor, ingrese un nombre válido"
-3. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al         menos un amigo para realizar el sorteo
+3. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al menos un amigo para realizar el sorteo.
 
 ## **Captura de Pantalla 📸**
 
