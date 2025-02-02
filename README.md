@@ -13,7 +13,8 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 ## Uso 🛠️
 
 1. **Agregar un amigo**: Escribe el nombre de un amigo en el campo de entrada y haz clic en el botón "Añadir".
-2. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado.
+    Si no digita un nombre y hace click en el botón "añadir" aparecerá un aviso en pantalla con un mensaje: "Por favor, ingrese un nombre válido"
+3. **Sortear amigo**: Haz clic en el botón "Sortear amigo" para elegir un nombre al azar. Se mostrará un mensaje con el nombre sorteado. Se necesita al         menos un amigo para realizar el sorteo
 
 ## Archivos del Proyecto 📂
 
@@ -25,7 +26,7 @@ Este es un proyecto simple de sorteo de Amigo Secreto realizado con HTML, CSS y 
 
 1. Clona este repositorio en tu máquina local.
     ```bash
-    git clone https://github.com/tu-usuario/challege-amigo-secreto-.git
+    git clone https://github.com/tu-usuario/challege-amigo-secreto.git
     ```
 2. Abre el archivo `index.html` en tu navegador para ver y usar la aplicación.
 
@@ -87,3 +88,24 @@ function mostrarResultado(amigoSorteado) {
     li.textContent = `El amigo sorteado es: ${amigoSorteado}`;
     listaResultado.appendChild(li);
 }
+Captura de pantalla 🎨
+![image](https://github.com/user-attachments/assets/0fdee1a8-2be2-49e4-a241-19a8d55d60b8)
+
+
+
+
+Contribuciones 🤝
+💡 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+Haz un fork del repositorio.
+
+Crea una rama con tu nueva característica (git checkout -b feature/nueva-caracteristica).
+
+Realiza tus cambios y haz un commit (git commit -m 'Añadir nueva característica').
+
+Envía tu rama (git push origin feature/nueva-caracteristica).
+
+Abre una Pull Request.
+
+Licencia 📜
+📄 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
