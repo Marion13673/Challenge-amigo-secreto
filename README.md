@@ -88,9 +88,9 @@ function mostrarResultado(amigoSorteado) {
     li.textContent = `El amigo sorteado es: ${amigoSorteado}`;
     listaResultado.appendChild(li);
 }
-Captura de pantalla 🎨
+## Captura de pantalla 🎨
 
-## Captura de pantalla  
+
 
 
 
